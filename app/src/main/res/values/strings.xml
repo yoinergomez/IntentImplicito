@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IntentImplicito</string>
+
+    <string-array name="spinner_array">
+        <item>- Seleccione -</item>
+        <item>Navegador</item>
+        <item>Llamar contacto</item>
+        <item>Marcar</item>
+        <item>Mostrar mapa</item>
+        <item>Buscar mapa</item>
+        <item>Tomar una foto</item>
+        <item>Mostrar contacto</item>
+    </string-array>
+</resources>
